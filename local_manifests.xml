@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="somadsul/android_device_samsung_universal7885-common" path="device/samsung/universal7885-common" revision="master" />
+  <project name="somadsul/android_device_samsung_jackpot2lte" path="device/samsung/jackpot2lte" revision="master" />
+  <project name="lineageos/android_hardware_samsung" path="hardware/samsung" revision="lineage-17.1" />
+  <project name="lineageos/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" revision="lineage-17.1" />
+  <project name="lineageos/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" revision="lineage-17.1" />
+  <project clone-depth="1" name="TeamExyKings/android_kernel_samsung_exynos7885" path="kernel/samsung/exynos7885" revision="master" />
+
+  <project clone-depth="1" path="vendor/samsung/universal7885-common" name="somadsul/android_vendor_samsung_universal7885-common" revision="master" />
+</manifest>
