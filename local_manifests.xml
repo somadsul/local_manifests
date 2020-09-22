@@ -3,5 +3,5 @@
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos"  path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-16.0" />
-  <project clone-depth="1" name="TeamExyKings/android_kernel_samsung_exynos7885" path="kernel/samsung/exynos7885" remote="github" revision="master" />
+  <project clone-depth="1" name="TeamExyKings/android_kernel_samsung_exynos7885" path="kernel/samsung/universal7885" remote="github" revision="master" />
 </manifest>
